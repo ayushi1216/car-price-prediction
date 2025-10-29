@@ -9,15 +9,6 @@ Built with:
 - 🖥️ **Streamlit** for the web interface
 - 📊 **Pandas** and **NumPy** for data handling
 
----
-
-## 📦 Installation
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/car-price-prediction.git
-   cd car-price-prediction
-
 
 Model Details :-
 Trained using Linear Regression on quikr_car.csv dataset.
