@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction App
 
-# 🚗 Car Price Prediction App
+**Live Demo:** [Click here to try it on Streamlit →](https://car-price-prediction-fgrpisdf7y98rqhccg3ncv.streamlit.app/)
 
 A **Machine Learning Web App** that predicts car prices based on features like name, company, year, kilometers driven, and fuel type.
 
